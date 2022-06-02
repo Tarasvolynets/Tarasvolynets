@@ -7,9 +7,9 @@ Here are some ideas to get you started: -->
 
 
 - 👋 Hi, I’m Taras Volynets
-- 👀 I’m interested in finding new opportunities for IT people
-- 🌱 I’m currently learning how to do that on Github :D
-- 💞️ I’m looking to collaborate on so many projects 
+- 👀 I’m interested in finding new opportunities 
+- 🌱 I’m currently learning CSS
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me: queferal@gmail.com
 - 🔭 I’m currently working on some simple repositories
 
